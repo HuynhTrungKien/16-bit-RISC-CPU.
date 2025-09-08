@@ -1,0 +1,27 @@
+0.7
+2020.2
+May 22 2025
+00:13:55
+D:/Vivado_project/16-bit_RISC_CPU/16-bit_RISC_CPU.sim/sim_1/behav/xsim/glbl.v,1741209010,verilog,,,,glbl,,,,,,,,
+D:/Vivado_project/16-bit_RISC_CPU/16-bit_RISC_CPU.srcs/sim_1/new/CPU_tb.v,1756223527,verilog,,,,CPU_tb,,,F:/Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+D:/Vivado_project/16-bit_RISC_CPU/16-bit_RISC_CPU.srcs/sources_1/new/ALU.v,1753955581,verilog,,D:/Vivado_project/16-bit_RISC_CPU/16-bit_RISC_CPU.srcs/sources_1/new/ALU_control.v,,ALU,,,F:/Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+D:/Vivado_project/16-bit_RISC_CPU/16-bit_RISC_CPU.srcs/sources_1/new/ALU_control.v,1753955597,verilog,,D:/Vivado_project/16-bit_RISC_CPU/16-bit_RISC_CPU.srcs/sources_1/new/C_U.v,,ALU_control,,,F:/Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+D:/Vivado_project/16-bit_RISC_CPU/16-bit_RISC_CPU.srcs/sources_1/new/C_U.v,1756205201,verilog,,D:/Vivado_project/16-bit_RISC_CPU/16-bit_RISC_CPU.srcs/sources_1/new/Clock_div.v,,C_U,,,F:/Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+D:/Vivado_project/16-bit_RISC_CPU/16-bit_RISC_CPU.srcs/sources_1/new/Clock_div.v,1756225025,verilog,,D:/Vivado_project/16-bit_RISC_CPU/16-bit_RISC_CPU.srcs/sources_1/new/Imm_gen.v,,Clock_div,,,F:/Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+D:/Vivado_project/16-bit_RISC_CPU/16-bit_RISC_CPU.srcs/sources_1/new/Imm_gen.v,1753955671,verilog,,D:/Vivado_project/16-bit_RISC_CPU/16-bit_RISC_CPU.srcs/sources_1/new/Ins_Mem.v,,Imm_gen,,,F:/Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+D:/Vivado_project/16-bit_RISC_CPU/16-bit_RISC_CPU.srcs/sources_1/new/Ins_Mem.v,1756225490,verilog,,D:/Vivado_project/16-bit_RISC_CPU/16-bit_RISC_CPU.srcs/sources_1/new/MUX_2_1.v,,Ins_Mem,,,F:/Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+D:/Vivado_project/16-bit_RISC_CPU/16-bit_RISC_CPU.srcs/sources_1/new/MUX_2_1.v,1753956193,verilog,,D:/Vivado_project/16-bit_RISC_CPU/16-bit_RISC_CPU.srcs/sources_1/new/MUX_2_1_PC.v,,MUX_2_1,,,F:/Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+D:/Vivado_project/16-bit_RISC_CPU/16-bit_RISC_CPU.srcs/sources_1/new/MUX_2_1_PC.v,1753955710,verilog,,D:/Vivado_project/16-bit_RISC_CPU/16-bit_RISC_CPU.srcs/sources_1/new/MUX_3_1_RET.v,,MUX_2_1_PC,,,F:/Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+D:/Vivado_project/16-bit_RISC_CPU/16-bit_RISC_CPU.srcs/sources_1/new/MUX_3_1_RET.v,1753955721,verilog,,D:/Vivado_project/16-bit_RISC_CPU/16-bit_RISC_CPU.srcs/sources_1/new/MUX_ICR.v,,MUX_3_1_RET,,,F:/Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+D:/Vivado_project/16-bit_RISC_CPU/16-bit_RISC_CPU.srcs/sources_1/new/MUX_ICR.v,1753955764,verilog,,D:/Vivado_project/16-bit_RISC_CPU/16-bit_RISC_CPU.srcs/sources_1/new/MUX_alu_2_1.v,,MUX_ICR,,,F:/Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+D:/Vivado_project/16-bit_RISC_CPU/16-bit_RISC_CPU.srcs/sources_1/new/MUX_alu_2_1.v,1753955736,verilog,,D:/Vivado_project/16-bit_RISC_CPU/16-bit_RISC_CPU.srcs/sources_1/new/MUX_clk.v,,MUX_alu_2_1,,,F:/Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+D:/Vivado_project/16-bit_RISC_CPU/16-bit_RISC_CPU.srcs/sources_1/new/MUX_clk.v,1756204390,verilog,,D:/Vivado_project/16-bit_RISC_CPU/16-bit_RISC_CPU.srcs/sources_1/new/TOP.v,,MUX_clk,,,F:/Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+D:/Vivado_project/16-bit_RISC_CPU/16-bit_RISC_CPU.srcs/sources_1/new/TOP.v,1756225276,verilog,,D:/Vivado_project/16-bit_RISC_CPU/16-bit_RISC_CPU.srcs/sources_1/new/add_pc.v,,TOP,,,F:/Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+D:/Vivado_project/16-bit_RISC_CPU/16-bit_RISC_CPU.srcs/sources_1/new/add_pc.v,1753955843,verilog,,D:/Vivado_project/16-bit_RISC_CPU/16-bit_RISC_CPU.srcs/sources_1/new/branch.v,,add_pc,,,F:/Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+D:/Vivado_project/16-bit_RISC_CPU/16-bit_RISC_CPU.srcs/sources_1/new/branch.v,1753955860,verilog,,D:/Vivado_project/16-bit_RISC_CPU/16-bit_RISC_CPU.srcs/sources_1/new/data_mem.v,,branch,,,F:/Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+D:/Vivado_project/16-bit_RISC_CPU/16-bit_RISC_CPU.srcs/sources_1/new/data_mem.v,1756225603,verilog,,D:/Vivado_project/16-bit_RISC_CPU/16-bit_RISC_CPU.srcs/sources_1/new/debounce_interrupt.v,,data_mem,,,F:/Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+D:/Vivado_project/16-bit_RISC_CPU/16-bit_RISC_CPU.srcs/sources_1/new/debounce_interrupt.v,1753955657,verilog,,D:/Vivado_project/16-bit_RISC_CPU/16-bit_RISC_CPU.srcs/sources_1/new/interrupt_pending.v,,debounce_interrupt,,,F:/Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+D:/Vivado_project/16-bit_RISC_CPU/16-bit_RISC_CPU.srcs/sources_1/new/interrupt_pending.v,1756211861,verilog,,D:/Vivado_project/16-bit_RISC_CPU/16-bit_RISC_CPU.srcs/sources_1/new/pc_add_2.v,,interrupt_pending,,,F:/Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+D:/Vivado_project/16-bit_RISC_CPU/16-bit_RISC_CPU.srcs/sources_1/new/pc_add_2.v,1756220350,verilog,,D:/Vivado_project/16-bit_RISC_CPU/16-bit_RISC_CPU.srcs/sources_1/new/program_counter.v,,pc_add_2,,,F:/Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+D:/Vivado_project/16-bit_RISC_CPU/16-bit_RISC_CPU.srcs/sources_1/new/program_counter.v,1753955801,verilog,,D:/Vivado_project/16-bit_RISC_CPU/16-bit_RISC_CPU.srcs/sources_1/new/reg_file.v,,program_counter,,,F:/Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+D:/Vivado_project/16-bit_RISC_CPU/16-bit_RISC_CPU.srcs/sources_1/new/reg_file.v,1756221006,verilog,,D:/Vivado_project/16-bit_RISC_CPU/16-bit_RISC_CPU.srcs/sim_1/new/CPU_tb.v,,reg_file,,,F:/Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
